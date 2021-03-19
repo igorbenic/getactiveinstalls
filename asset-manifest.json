@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2354e946.chunk.css",
-    "main.js": "/static/js/main.5356dc41.chunk.js",
-    "main.js.map": "/static/js/main.5356dc41.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0aef6cbe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0aef6cbe.js.map",
-    "static/js/2.b66fdddb.chunk.js": "/static/js/2.b66fdddb.chunk.js",
-    "static/js/2.b66fdddb.chunk.js.map": "/static/js/2.b66fdddb.chunk.js.map",
-    "static/js/3.a34ec2a0.chunk.js": "/static/js/3.a34ec2a0.chunk.js",
-    "static/js/3.a34ec2a0.chunk.js.map": "/static/js/3.a34ec2a0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2354e946.chunk.css.map": "/static/css/main.2354e946.chunk.css.map",
-    "static/js/2.b66fdddb.chunk.js.LICENSE.txt": "/static/js/2.b66fdddb.chunk.js.LICENSE.txt",
-    "static/media/graph.1294b83b.svg": "/static/media/graph.1294b83b.svg"
+    "main.css": "/getactiveinstalls/static/css/main.2354e946.chunk.css",
+    "main.js": "/getactiveinstalls/static/js/main.5356dc41.chunk.js",
+    "main.js.map": "/getactiveinstalls/static/js/main.5356dc41.chunk.js.map",
+    "runtime-main.js": "/getactiveinstalls/static/js/runtime-main.95a96b11.js",
+    "runtime-main.js.map": "/getactiveinstalls/static/js/runtime-main.95a96b11.js.map",
+    "static/js/2.b66fdddb.chunk.js": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js",
+    "static/js/2.b66fdddb.chunk.js.map": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js.map",
+    "static/js/3.a34ec2a0.chunk.js": "/getactiveinstalls/static/js/3.a34ec2a0.chunk.js",
+    "static/js/3.a34ec2a0.chunk.js.map": "/getactiveinstalls/static/js/3.a34ec2a0.chunk.js.map",
+    "index.html": "/getactiveinstalls/index.html",
+    "static/css/main.2354e946.chunk.css.map": "/getactiveinstalls/static/css/main.2354e946.chunk.css.map",
+    "static/js/2.b66fdddb.chunk.js.LICENSE.txt": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js.LICENSE.txt",
+    "static/media/graph.1294b83b.svg": "/getactiveinstalls/static/media/graph.1294b83b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0aef6cbe.js",
+    "static/js/runtime-main.95a96b11.js",
     "static/js/2.b66fdddb.chunk.js",
     "static/css/main.2354e946.chunk.css",
     "static/js/main.5356dc41.chunk.js"
