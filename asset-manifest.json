@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/getactiveinstalls/static/css/main.2354e946.chunk.css",
-    "main.js": "/getactiveinstalls/static/js/main.5356dc41.chunk.js",
-    "main.js.map": "/getactiveinstalls/static/js/main.5356dc41.chunk.js.map",
-    "runtime-main.js": "/getactiveinstalls/static/js/runtime-main.95a96b11.js",
-    "runtime-main.js.map": "/getactiveinstalls/static/js/runtime-main.95a96b11.js.map",
-    "static/js/2.b66fdddb.chunk.js": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js",
-    "static/js/2.b66fdddb.chunk.js.map": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js.map",
-    "static/js/3.a34ec2a0.chunk.js": "/getactiveinstalls/static/js/3.a34ec2a0.chunk.js",
-    "static/js/3.a34ec2a0.chunk.js.map": "/getactiveinstalls/static/js/3.a34ec2a0.chunk.js.map",
+    "main.css": "/getactiveinstalls/static/css/main.cad5fd90.chunk.css",
+    "main.js": "/getactiveinstalls/static/js/main.c2264c4f.chunk.js",
+    "main.js.map": "/getactiveinstalls/static/js/main.c2264c4f.chunk.js.map",
+    "runtime-main.js": "/getactiveinstalls/static/js/runtime-main.5c751025.js",
+    "runtime-main.js.map": "/getactiveinstalls/static/js/runtime-main.5c751025.js.map",
+    "static/css/2.d22f252f.chunk.css": "/getactiveinstalls/static/css/2.d22f252f.chunk.css",
+    "static/js/2.335f6412.chunk.js": "/getactiveinstalls/static/js/2.335f6412.chunk.js",
+    "static/js/2.335f6412.chunk.js.map": "/getactiveinstalls/static/js/2.335f6412.chunk.js.map",
+    "static/js/3.67b301b5.chunk.js": "/getactiveinstalls/static/js/3.67b301b5.chunk.js",
+    "static/js/3.67b301b5.chunk.js.map": "/getactiveinstalls/static/js/3.67b301b5.chunk.js.map",
     "index.html": "/getactiveinstalls/index.html",
-    "static/css/main.2354e946.chunk.css.map": "/getactiveinstalls/static/css/main.2354e946.chunk.css.map",
-    "static/js/2.b66fdddb.chunk.js.LICENSE.txt": "/getactiveinstalls/static/js/2.b66fdddb.chunk.js.LICENSE.txt",
-    "static/media/graph.1294b83b.svg": "/getactiveinstalls/static/media/graph.1294b83b.svg"
+    "static/css/2.d22f252f.chunk.css.map": "/getactiveinstalls/static/css/2.d22f252f.chunk.css.map",
+    "static/css/main.cad5fd90.chunk.css.map": "/getactiveinstalls/static/css/main.cad5fd90.chunk.css.map",
+    "static/js/2.335f6412.chunk.js.LICENSE.txt": "/getactiveinstalls/static/js/2.335f6412.chunk.js.LICENSE.txt",
+    "static/media/graph.2d12eb74.svg": "/getactiveinstalls/static/media/graph.2d12eb74.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95a96b11.js",
-    "static/js/2.b66fdddb.chunk.js",
-    "static/css/main.2354e946.chunk.css",
-    "static/js/main.5356dc41.chunk.js"
+    "static/js/runtime-main.5c751025.js",
+    "static/css/2.d22f252f.chunk.css",
+    "static/js/2.335f6412.chunk.js",
+    "static/css/main.cad5fd90.chunk.css",
+    "static/js/main.c2264c4f.chunk.js"
   ]
 }
