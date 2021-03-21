@@ -1,12 +1,14 @@
 
 function PluginGrowth({ date, info, stats }) {
-    console.log(date.getFullYear());
-    console.log(stats);
-    const lastKnown = date.getMilliseconds();
+   
+    const lastKnown = Date.parse(date.getFullYear() + '-' + ( date.getMonth() + 1 ) + '-' + date.getDate());
     let installs = info.active_installs;
     let firstDate = null;
     for(var datetime in stats ) {
+       
+
         if ( Date.parse(datetime) < lastKnown ) {
+            
             continue;
         }
 

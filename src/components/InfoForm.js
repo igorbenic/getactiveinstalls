@@ -25,9 +25,9 @@ function getPluginInfo( slug, save, setLoading ) {
       findButton = 'Finding...';
     }
 
-    return <div className="container mt-4 rounded bg-white p-8  mx-auto">
-    <div className="w-full flex  items-center	">
-      <div className="text-xl mr-1">https://wordpress.org/plugins/</div>
+    return <div className="container mt-4 rounded bg-white p-4 md:p-8  mx-auto">
+    <div className="w-full md:flex  items-center	">
+      <div className="md:text-xl mr-1">https://wordpress.org/plugins/</div>
       
       <input
         placeholder="Slug | exp. woocommerce, wordpress-seo"
@@ -36,7 +36,7 @@ function getPluginInfo( slug, save, setLoading ) {
         onChange={ (event)=>{ setSlug(event.target.value)}}/>
       
       <button 
-        className="bg-yellow-500 text-white py-3 px-8 rounded text-xl" 
+        className="w-full mt-2 md:mt-0 md:w-auto bg-yellow-500 text-white py-3 px-8 rounded text-xl" 
         type="button" 
         onClick={()=>{
             setLoading(1);

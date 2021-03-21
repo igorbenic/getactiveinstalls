@@ -2,7 +2,7 @@
   "name": "getactiveinstalls",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://igorbenic.github.io/getactiveinstalls",
+  "homepage": "http://getactiveinstalls.com/",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@testing-library/jest-dom": "^5.11.4",
@@ -22,7 +22,9 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "clean" : "gh-pages-clean"
+
   },
   "eslintConfig": {
     "extends": [
