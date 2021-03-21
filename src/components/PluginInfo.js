@@ -8,7 +8,7 @@ function getPluginGrowth( slug, save ) {
         response.json().then(function(data) {
            
             save(data);
-          console.log(data);
+          
         });
         
       }

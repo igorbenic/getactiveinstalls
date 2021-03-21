@@ -5,7 +5,7 @@ function getPluginInfo( slug, save, setLoading ) {
        
         response.json().then(function(data) {
           if ( data ) {
-            save(data);console.log(data);
+            save(data); 
           }
           setLoading('');
         });
